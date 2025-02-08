@@ -1,1 +1,1 @@
-hello
+Typescript learnings!!!
