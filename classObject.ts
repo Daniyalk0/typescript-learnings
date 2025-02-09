@@ -1,4 +1,4 @@
-// 1️⃣ Classes & Objects
+// 1️⃣ Classes & Objects 
 class insan {
     name: string;
     

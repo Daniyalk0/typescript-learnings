@@ -13,7 +13,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-// 1️⃣ Classes & Objects
+// 1️⃣ Classes & Objects 
 var insan = /** @class */ (function () {
     function insan(name) {
         this.name = name;
