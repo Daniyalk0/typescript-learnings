@@ -30,4 +30,4 @@ let statuss;
 statuss = "success"; // ✅ Valid  
 // 7️⃣ Tuples
 let userInfo = ["Alice", 25, true];
-console.log(userInfo[0]); // "Alice"
+console.log(userInfo[0]); //  "Alice"

@@ -66,7 +66,7 @@ type Person1 = Admin | User; // Union
 type Employee = Admin & { department: string }; // Intersection
 
 
-// 7️⃣ Tuples
+// 7️⃣  Tuples
 
 let userInfo: [string, number, boolean] = ["Alice", 25, true];  
 console.log(userInfo[0]); // "Alice"
