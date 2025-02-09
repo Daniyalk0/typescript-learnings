@@ -14,16 +14,16 @@ var __extends = (this && this.__extends) || (function () {
     };
 })();
 // 1️⃣ Classes & Objects
-var Person = /** @class */ (function () {
-    function Person(name) {
+var insan = /** @class */ (function () {
+    function insan(name) {
         this.name = name;
     }
-    Person.prototype.greet = function () {
+    insan.prototype.greet = function () {
         return "Hello, my name is ".concat(this.name);
     };
-    return Person;
+    return insan;
 }());
-var userr = new Person("John");
+var userr = new insan("John");
 console.log(userr.greet()); // Hello, my name is John
 // 2️⃣ Public & Private Access Modifiers
 var BankAccount = /** @class */ (function () {

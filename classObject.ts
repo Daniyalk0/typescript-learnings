@@ -1,5 +1,5 @@
 // 1️⃣ Classes & Objects
-class Person {
+class insan {
     name: string;
     
     constructor(name: string) {
@@ -11,7 +11,7 @@ class Person {
     }
   }
   
-  const userr = new Person("John");
+  const userr = new insan("John");
   console.log(userr.greet()); // Hello, my name is John
   
 
